@@ -1,7 +1,5 @@
 package com.tnsif.day3.Oops;
 
-import com.tnsif_day3.Oops.Encapsulation;
-
 public class Encapsulation {
 	String name;
 	int age;
